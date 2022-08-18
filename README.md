@@ -1,4 +1,4 @@
-### Hi there 👋, I`m Timofey - aka Kuthon
+### Hi there 👋, I`m Timofey - aka Kuthort
 
 ## 📈 Stats
 
