@@ -1,4 +1,4 @@
-### Hi there 👋, I`m Timofey - aka Kuthort
+### Hi there 👋, I`m Timofey - aka Kytomin
 
 ## 📈 Stats
 
@@ -11,7 +11,7 @@
 [//]:  https://github.com/sindresorhus/css-in-readme-like-wat
 
 ## 🛠️ Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuthort&layout=compact&theme=nord)](https://github.com/Kuthon?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kytomin&layout=compact&theme=nord)](https://github.com/Kytomin?tab=repositories)
 
-[Telegram]: https://t.me/kuthort
-[VK]: https://vk.com/kuthort
+[Telegram]: https://t.me/kytomin
+[VK]: https://vk.com/kytomin
